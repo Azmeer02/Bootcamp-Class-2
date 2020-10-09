@@ -3,7 +3,7 @@ import React from 'react';
 function Class1() {
     return (
       <div>
-        Hello World from me
+        Hello World from all of us
       </div>
     );
 }
